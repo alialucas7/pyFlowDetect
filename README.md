@@ -17,7 +17,7 @@ This project needs several `.argus files`, i.e. network flow information files, 
 
 One condition to generete these files is to keep track of wich computers in the network are the attackers, and wich ones are innocents, i.e. we need their ips. Then `variables.json` file needs these ips in scannerIps and targetIps properties respectively. Aditionally it needs the password for sudo privileges when running the trainer.
 
-The variables.json file  looks like
+The `variables.json` file  looks like
 ```json
 {
     "argusConfig": "./netflowConfFiles",
