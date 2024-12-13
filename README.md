@@ -33,7 +33,7 @@ Finnally running the following
 
 [![mydecisiontree.png](https://i.postimg.cc/rpKw7dxR/mydecisiontree.png)](https://postimg.cc/gwbpZ2MG)
 
-⋅⋅* In case you want to see the procedure step by step or run it in jupyter notebook you can use `Entrenamiento.ipynb`
+* In case you want to see the procedure step by step or run it in jupyter notebook you can use `Entrenamiento.ipynb`
 
 2. `pyDetect.py` To see the model in action run `pyDetect.py` to view a real time netflow clasification. It will search for a model called
    `rFOrest.pkl` and it will use argus in daemon mode to fetch the network traffic on the machine.
