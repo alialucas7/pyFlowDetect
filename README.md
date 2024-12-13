@@ -13,11 +13,11 @@ pip install pyflow-detect
 
 
 ## Usage | Uso
-This project needs several .argus files, i.e. network flow information files, stored in `./trainData/netflows`. These files must have legitimate network flows and port scan network flows. You can generate those files using argus and argus clients to record network activity, or converting existing .pcap files to a netflow version (.argus). Refer to [argus documentation](https://openargus.org/using-argus) on how to do that.
+This project needs several `.argus files`, i.e. network flow information files, stored in `./trainData/netflows`. These files must have legitimate network flows and port scan network flows. You can generate those files using argus and argus clients to record network activity, or converting existing .pcap files to a netflow version (.argus). Refer to [argus documentation](https://openargus.org/using-argus) on how to do that.
 
-One condition to generete these files is to keep track of wich computers in the network are the attackers, and wich ones are innocents, i.e. we need their ips. Then variables.json file needs these ips in scannerIps and targetIps properties respectively. Aditionally it needs the password for sudo privileges when running the trainer.
+One condition to generete these files is to keep track of wich computers in the network are the attackers, and wich ones are innocents, i.e. we need their ips. Then `variables.json` file needs these ips in scannerIps and targetIps properties respectively. Aditionally it needs the password for sudo privileges when running the trainer.
 
-variables.json
+The variables.json file  looks like
 ```json
 {
     "argusConfig": "./netflowConfFiles",
