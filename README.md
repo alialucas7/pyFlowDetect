@@ -33,7 +33,7 @@ Finnally running the following
 
 [![mydecisiontree.png](https://i.postimg.cc/rpKw7dxR/mydecisiontree.png)](https://postimg.cc/gwbpZ2MG)
 
-2. `pyDetect.py` To see the model in action use the demo.py file to view a real time netflow clasification. It will search for a model called
+2. `pyDetect.py` To see the model in action run `pyDetect.py` to view a real time netflow clasification. It will search for a model called
    `rFOrest.pkl` and it will use argus in daemon mode to fetch the network traffic on the machine.
 
 
