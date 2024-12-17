@@ -1,5 +1,8 @@
 <h1 align="center"> 🐍 pyFlowDetect </h1>
 
+[![PyPI version](https://badge.fury.io/py/pyflow-detect.svg)](https://pypi.org/project/pyflow-detect/)
+
+
 Detect port scans in your network with python | Detecte escaneos de puertos dentro de su red con python.
 
 This project uses machine learning and network traffic analysis techniques for port scan detection. It combines data extraction, preprocessing and classification with algorithms such as Decision Trees and Random Forest. It is a tool designed to strengthen cybersecurity through a practical, technical and scalable approach.
