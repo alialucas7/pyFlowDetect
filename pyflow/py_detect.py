@@ -35,7 +35,7 @@ def addMissingEncodedColumns(df):
     return df
 
 process = createArgusDaemonOutput(demoDirPath)
-clf = joblib.load('bag.pkl')
+clf = joblib.load('rForest.pkl')
 print("Real time netflow");
 while True:
     header=True

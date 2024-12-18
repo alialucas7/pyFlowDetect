@@ -1,0 +1,39 @@
+  109  pip install numpy=1.26.4
+  110  pip install numpy
+  111  pip install numpy
+  130  pip install numpy==1.23.5
+  132  pip install --upgrade pip
+  133  pip install matplolib
+  134  pip install matplolib==0.1.6
+  135  pip install matplotlib
+  137  pip install pandas==2.1.4
+  139  pip install scikit-learn==1.2.0
+  140  pip install scikit-learn
+  147  pip install datetime
+  154  pip install statsmodels==0.14.2
+  156  pip install seaborn==0.13.2
+  158  pip install pydotplus==2.0.2
+  168  pip install joblib==1.4.2
+  173  pip install sckit-learn=1.2.0
+  174  pip install sckit-learn==1.2.0
+  175  pip install scikit-learn==1.2.0
+  256  pip install scikit-learn==1.2.0 --break-system-packages
+  276  pip install numpy-1.26.4
+  277  pip install numpy==1.26.4
+  366  pip install scikit-learn==1.2.0
+  368  pip install --upgrade setuptools wheel
+  369  pip install scikit-learn==1.2.0
+  406  pip install scikit-learn==1.2.0
+  421  pip install numpy==1.26.4
+  423  pip install matplolib==3.6.3
+  424  pip install matplotlib==3.6.3
+  429  pip install pandas==2.1.4
+  431  pip install statsmodels==0.14.2
+  433  pip install seaborn==0.13.2
+  435  pip install pydotplus==2.0.0
+  534  pip install setuptools wheel
+  537  pip install twine
+  577  python3 utils.py | grep "pip install"
+  578  cat history | grep "pip install"
+  579  history | grep "pip install"
+  580  history | grep "pip install" > examinar.txt
