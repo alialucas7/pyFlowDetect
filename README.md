@@ -9,9 +9,15 @@ This project uses machine learning and network traffic analysis techniques for p
 
 ## Install | Instalacion
 ### Linux
-
+In the project clone folder run
 ```bash
-pip install pyflow-detect
+pyenv virtualenv 3.10.12 py_flow_detect
+```
+```bash
+pyenv activate py_flow_detect
+```
+```bash
+pip install -r requirements.txt
 ```
 
 
