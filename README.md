@@ -7,6 +7,13 @@ Detect port scans in your network with python | Detecte escaneos de puertos dent
 
 This project uses machine learning and network traffic analysis techniques for port scan detection. It combines data extraction, preprocessing and classification with algorithms such as Decision Trees and Random Forest. It is a tool designed to strengthen cybersecurity through a practical, technical and scalable approach.
 
+## Dependencies External| Dependencias Externas
+| python       | 
+|--------------|
+| pyenv        | 
+| open-argus   | 
+| Wireshark    | 
+
 ## Install | Instalacion
 ### Linux
 In the project clone folder run
