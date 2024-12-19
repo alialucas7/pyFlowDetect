@@ -2,8 +2,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="pyflow-detect",  # Nombre del paquete
-    version="0.1.1",  # Versión
+    name="pyflow-port-detection",  # Nombre del paquete
+    version="2.1",  # Versión
     author="Alia Lucas Emanuel",
     author_email="lukitis2@gmail.com",
     description="Detect port scans in your network with python",

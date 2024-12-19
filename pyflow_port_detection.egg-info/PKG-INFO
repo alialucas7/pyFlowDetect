@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: pyflow-detectt
-Version: 0.1
+Name: pyflow-port-detection
+Version: 2.1
 Summary: Detect port scans in your network with python
 Home-page: https://github.com/alialucas7/ptFlowDetect
 Author: Alia Lucas Emanuel
