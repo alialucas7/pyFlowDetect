@@ -1,0 +1,8 @@
+{
+	"argusConfig": "./netflowConfFiles",
+	"trainingData": "./trainData/netflows",
+	"demoData": "./demoData",
+	"scannerIps": ["192.168.x.x"],
+	"targetIps": ["192.168.x.x"] ,
+	"password": "x"
+}

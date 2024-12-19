@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+pyflow_detectt.egg-info/PKG-INFO
+pyflow_detectt.egg-info/SOURCES.txt
+pyflow_detectt.egg-info/dependency_links.txt
+pyflow_detectt.egg-info/requires.txt
+pyflow_detectt.egg-info/top_level.txt
