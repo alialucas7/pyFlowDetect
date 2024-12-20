@@ -72,7 +72,9 @@ Finnally running the following
 
 
 
+![definitivo (1)](https://github.com/user-attachments/assets/f8871984-8d47-4a3d-9b02-7e76acc91e64)
 
+[![Virtual-Box-Kali-20-12-2024-15-48-40.png](https://i.postimg.cc/vTwrsTG3/Virtual-Box-Kali-20-12-2024-15-48-40.png)](https://postimg.cc/0MZMG8Mw)
 
 ## License
 This project is licensed under MIT. Contributions to this project are accepted under the same license.
