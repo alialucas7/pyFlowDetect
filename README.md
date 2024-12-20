@@ -67,7 +67,7 @@ Finnally running the following
   
   
 
-2. `pyDetect.py` To see the model in action run `pyDetect.py` to view a real time netflow clasification. It will search for a model called
+2. `py_detect.py` To see the model in action run `py_detect.py` to view a real time netflow clasification. It will search for a model called
    `rFOrest.pkl` and it will use argus in daemon mode to fetch the network traffic on the machine.
 
 
