@@ -18,6 +18,9 @@ This project uses machine learning and network traffic analysis techniques for p
 ### Linux
 In the folder where the repository was cloned, run
 ```bash
+pyenv install 3.10.12 
+```
+```bash
 pyenv virtualenv 3.10.12 py_flow_detect
 ```
 ```bash
