@@ -10,7 +10,8 @@ This project uses machine learning and network traffic analysis techniques for p
 ## Dependencies External| Dependencias Externas
 | python - pip       | 
 |--------------|
-| pyenv        | 
+| pyenv        |
+| pyenv-virtualenv |
 | open-argus   | 
 | Wireshark    | 
 
