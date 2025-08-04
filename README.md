@@ -76,7 +76,11 @@ Finnally running the following
 
 
 
-![definitivo (1)](https://github.com/user-attachments/assets/f8871984-8d47-4a3d-9b02-7e76acc91e64)
+https://github.com/user-attachments/assets/d4629bf5-9e89-4b0d-ae57-3915c820b191
+
+
+
+<!--![definitivo (1)](https://github.com/user-attachments/assets/f8871984-8d47-4a3d-9b02-7e76acc91e64). -->
 
 ![VirtualBox_Kali_20_12_2024_15_48_40](https://github.com/user-attachments/assets/30269959-df7c-46c4-a427-0bdcbe2e1be9)
 
